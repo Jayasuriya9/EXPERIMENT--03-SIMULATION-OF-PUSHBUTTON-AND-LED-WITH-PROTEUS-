@@ -73,8 +73,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-#### Developed by:Alagu Nachiyar K
-#### Registor no:212222240006
+#### Developed by:J JAYASURIYA
+#### Registor no:212223230088
 ```
 #include "main.h"
 #include<stdbool.h>
